@@ -1,12 +1,12 @@
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niituma&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=niituma&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roku58&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Roku58&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=niituma&theme=dark_lover&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niituma&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roku58&theme=monokai)
 
 <!--
 **Roku58/Roku58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
