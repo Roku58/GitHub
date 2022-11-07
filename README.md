@@ -9,7 +9,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niituma&theme=monokai)
 
 <!--
-**niituma/niituma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Matuo/Matuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
