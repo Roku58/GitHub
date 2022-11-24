@@ -8,7 +8,7 @@
 
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roku58&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roku58&layout=compact&count_private=trueshow_icons=true&theme=dark&text_color=#FFFFFF" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Roku58&count_private=true&show_icons=true&show_icons=true&theme=dark&text_color=#FFFFFF" />
 </p>
 
