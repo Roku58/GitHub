@@ -1,4 +1,4 @@
-[ポートフォリオはこちらから](https://electric-bonobo-e0a.notion.site/3f8a0e2519e74122970c1d499ed7046c)
+[ポートフォリオ](https://electric-bonobo-e0a.notion.site/3f8a0e2519e74122970c1d499ed7046c)
 
 
 <p align="left"> 
